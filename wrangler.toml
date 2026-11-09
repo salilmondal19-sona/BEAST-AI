@@ -1,0 +1,3 @@
+name = "beast-ai-api"
+main = "worker/index.js"
+compatibility_date = "2026-11-09"
